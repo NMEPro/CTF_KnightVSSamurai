@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 031d5e96d433a234fb97944a5050e560
+timeCreated: 1520887602
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - KnightPrefab: {fileID: 1008987216955940, guid: 0d24b039430d86140beebf7c8467a914,
+      type: 2}
+  - SamuraiPrefab: {fileID: 1293976056722064, guid: aea1d567f75ec3445a92a25bbfa6e927,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
